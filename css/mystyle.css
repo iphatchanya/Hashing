@@ -1,0 +1,60 @@
+.menu{
+    background-repeat: no-repeat;
+    background-color: #405159;
+    height: 850px;
+   	border-top-left-radius: 100px;
+   	border-bottom-left-radius: 100px;
+}
+.main{
+	background-repeat: no-repeat;
+  	background-color: #1d181f;
+    height: 850px;
+  	border-top-right-radius: 100px;
+   	border-bottom-right-radius: 100px;
+   	border-left-style: solid;
+
+}
+.bgdiv{
+    height: 900px;
+    margin: auto;
+    margin-left: 8%;
+}
+.image{
+	height: 600px;
+	margin: auto;
+	margin-top: 50px;
+	margin-top: 10%;
+	border: 5px solid;
+	border-radius: 5px; 
+}
+.button{
+	width: 80px;
+	height: 80px;
+	margin-left: 10%;
+}
+.font-menu{
+	font-size: 40px;
+	color: white;
+	font-family: 'Courgette', cursive;
+}
+.button-poweroff{
+	width: 75px;
+	height: 75px;
+	margin-top: 10px;
+	margin-right: 50px;
+}
+.credit{
+	height: 600px;
+	width: 1058px;
+	background-color: white;
+	margin: auto;
+	margin-top: 50px;
+	margin-top: 10%;
+	border: 5px solid;
+	border-radius: 5px; 
+}
+.font-credit{
+	font-size: 40px;
+	color: black;
+	font-family: 'Courgette', cursive;
+}
